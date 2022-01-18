@@ -1,3 +1,6 @@
+#### Forked this repo to work with the code
+  Youtube video link from Sir Krish Naik's youtube channel: https://youtu.be/y4EMEpEnElQ
+  
 # Flight Fare Prediction: 
 
 ## Table of Content
